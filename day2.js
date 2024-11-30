@@ -62,7 +62,6 @@ function removeDuplicates(emp1) {
   }
   return uniqueEmployeeList;
 }
-
 const emp = removeDuplicates(employeeDetails);
 console.log("Unique Employees:", emp);
 
