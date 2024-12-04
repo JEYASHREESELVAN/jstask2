@@ -74,4 +74,3 @@ function filterEmployee(employees) {
 const filteredEmployees = filterEmployee(emp);
 console.log("Filtered Employees:", filteredEmployees);
 
-const name= "jeya";
