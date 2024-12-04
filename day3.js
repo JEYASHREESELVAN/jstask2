@@ -234,6 +234,7 @@ function calculateDiscount(custChosenBook){
         }
     }
     
+    const myDiscount=0;
 
 
 }
